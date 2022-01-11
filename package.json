@@ -4,7 +4,8 @@
   "description": "A Simple Web Server",
   "main": "src/app.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "src/app.mjs"
   },
   "author": "Shubham Kumar",
   "license": "ISC",
