@@ -44,7 +44,7 @@ app.get('/help', (req, res) => {
 
 app.get('/about', (req, res) => {
     res.render('about', {
-        pageTitle: 'Welcome to the About page',
+        pageTitle: 'About the Service',
         credit: "Sam"
     });
 });

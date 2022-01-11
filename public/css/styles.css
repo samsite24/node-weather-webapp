@@ -54,12 +54,18 @@ p {
 }
 
 .image {
-    width: 500px;
+    width: 70%;
+    margin-top: 20px;
+    border: 1px dotted rgb(201, 110, 125);
 }
 
 form {
     margin-top: 150px;
     margin-bottom: 50px;
+}
+
+.help-text {
+    margin-top: 200px;
 }
 
 #msg1, #msg2 {
